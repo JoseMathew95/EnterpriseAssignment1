@@ -1,0 +1,21 @@
+﻿
+/*
+    written by Jose Mathew on 06/01/2016.
+
+    1. removes the space between jumbotron and navbar
+    2. Sets the color and height of the div in the home page.
+
+*/
+.jumbotron{
+    margin-top : 0px;
+    margin-bottom: 0px;
+}
+
+.navbar{
+    margin-bottom: 0px;
+}
+
+#homeHeader{
+    background-color : cornflowerblue;
+    height:220px;
+}
